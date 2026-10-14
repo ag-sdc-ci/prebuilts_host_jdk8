@@ -1,0 +1,7 @@
+shadow prebuilt repo: jdk8 (host)
+  upstream: prebuilts/jdk/jdk8
+  role: host
+  api-level: universal (branch universal-20261014; host JDK is API-agnostic)
+  layout: extracted Linux x86_64 host OpenJDK 8 runtime
+  sync path: prebuilts/host/jdk/jdk8 (with compat link to prebuilts/jdk/jdk8)
+  date: 2026-10-14
